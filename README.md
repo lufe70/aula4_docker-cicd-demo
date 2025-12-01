@@ -88,7 +88,7 @@ test_calculadora.py::test_score_dentro_limites PASSED [100%]
 
 ---
 
-## 🐳 Docker (5min de demo)
+## 🐳 Docker 
 
 ### O que é Docker?
 **Empacota código + dependências em um "container"**
@@ -225,40 +225,6 @@ Total: 21s - PASSOU!
 - ✅ GitHub Actions
 - ✅ Integração contínua
 
-### Ligação com Aulas
-- 🔗 **Pandera (Aula 2)** → Roda automaticamente no CI/CD
-- 🔗 **Validação** → Acontece ANTES do código entrar em produção
+
 
 ---
-
-## 📊 Timing da Apresentação
-
-**Total: 10 minutos**
-
-| Parte | Tempo | O que fazer |
-|-------|-------|-------------|
-| Contexto | 1min | "Projeto simples: calcula score de crédito" |
-| Rodar local | 2min | python calculadora.py, validador.py, pytest |
-| Docker | 4min | Explicar Dockerfile, docker build, docker run |
-| CI/CD | 3min | Explicar workflow, mostrar GitHub Actions |
-
----
-
-## 💡 Vantagens deste Demo
-
-✅ **Código SIMPLES** (100 linhas total)  
-✅ **Conceito CLARO** (score de crédito)  
-✅ **Sem ML** (não distrai do foco Docker/CI/CD)  
-✅ **Liga com Pandera** (da Aula 2)  
-✅ **Pronto para rodar** (funciona de verdade)  
-✅ **Rápido** (10min de demo)
-
----
-
-## 🎯 Mensagem Final
-
-> "Vocês viram um projeto SIMPLES usando Docker e CI/CD. O código é básico de propósito - o foco é ENTENDER as ferramentas. No Módulo 7, vocês vão aplicar isso em projetos de ML reais."
-
----
-
-**Projeto pronto para demonstração! 🚀**
