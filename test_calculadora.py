@@ -3,7 +3,7 @@ Testes - Verificam se calculadora funciona corretamente
 """
 import pytest
 from calculadora import calcular_score
-
+# edição para commit
 
 def test_score_alto():
     """Pessoa com boa renda, idade e poucas dívidas = score alto"""
